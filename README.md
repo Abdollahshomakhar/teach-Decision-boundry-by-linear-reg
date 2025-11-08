@@ -23,6 +23,7 @@
 
 ```bash
 pip install numpy matplotlib scikit-learn
+```
 
 
 📈 خروجی
