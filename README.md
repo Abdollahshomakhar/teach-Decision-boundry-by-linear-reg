@@ -23,3 +23,29 @@
 
 ```bash
 pip install numpy matplotlib scikit-learn
+
+
+📈 خروجی
+
+داده‌ها به صورت نقاط آبی و نارنجی (دو کلاس مختلف) نمایش داده می‌شوند.
+
+یک خط جداکننده (Decision Boundary) مرز بین دو کلاس را نشان می‌دهد.
+
+با اجرای model.predict([[3, -2]])، مدل پیش‌بینی می‌کند که این نقطه در کدام کلاس قرار دارد.
+
+🧩 نتیجه‌گیری
+
+این پروژه نشان می‌دهد که چگونه رگرسیون لجستیک می‌تواند به سادگی برای داده‌های دوبعدی آموزش داده شده و به صورت تصویری تفسیر شود.
+مرز تصمیم به وضوح منطقه‌ای را که مدل برای هر کلاس در نظر گرفته است مشخص می‌کند.
+
+📚 منابع
+
+Scikit-learn Documentation - Logistic Regression
+
+Andrew Ng - Machine Learning Specialization (Coursera)
+
+👨‍💻 نویسنده
+
+احسان
+📅 2025
+💡 "Learning by visualizing is the key to understanding Machine Learning."
