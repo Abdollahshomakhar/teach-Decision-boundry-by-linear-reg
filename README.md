@@ -45,9 +45,9 @@ Scikit-learn Documentation - Logistic Regression
 
 Andrew Ng - Machine Learning Specialization (Coursera)
 
-👨‍💻 نویسنده
+👨‍💻 auther
 
-احسان قربانی 
+Ehsan Qorbani 
 
 📅 2025
 
