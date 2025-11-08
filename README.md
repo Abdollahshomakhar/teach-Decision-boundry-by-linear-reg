@@ -47,6 +47,8 @@ Andrew Ng - Machine Learning Specialization (Coursera)
 
 👨‍💻 نویسنده
 
-احسان
+احسان قربانی 
+
 📅 2025
+
 💡 "Learning by visualizing is the key to understanding Machine Learning."
